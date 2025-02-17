@@ -1,4 +1,8 @@
 # 说明
+安装启动：
+pnpm i
+pnpm dev
+
 这是vue3+ts+vite搭建的项目模板,整合了react，amis3.6.3, amis-editor的示例，欢迎点赞。
 合作：
 付费支持amis设计器二次扩展，vue3+amis深度集成
